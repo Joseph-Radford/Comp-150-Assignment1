@@ -18,7 +18,7 @@ int mapfunction() //working
     int location;
     string line;
     string top = "---------------------------------------------- \n";
-    string side1 = "|         Welcome to the Map Screen!         | \n";
+    string side1 = "|         Dab                                | \n";
     string side2 = "|        Please select a destination!        | \n";
     string side3 = "|          Currently you are: Home           | \n";
     string side4 = "|        1. UFV                              | \n";
