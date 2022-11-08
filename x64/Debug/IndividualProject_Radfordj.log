@@ -1,0 +1,9 @@
+﻿  IndividualProject_Radfordj.cpp
+C:\Users\prndl\OneDrive\Pictures\Saved Pictures\UNI shit\Comp 150\IndividualProject_Radfordj\IndividualProject_Radfordj\IndividualProject_Radfordj.cpp(123,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\prndl\OneDrive\Pictures\Saved Pictures\UNI shit\Comp 150\IndividualProject_Radfordj\IndividualProject_Radfordj\IndividualProject_Radfordj.cpp(249,13): warning C4129: '/': unrecognized character escape sequence
+C:\Users\prndl\OneDrive\Pictures\Saved Pictures\UNI shit\Comp 150\IndividualProject_Radfordj\IndividualProject_Radfordj\IndividualProject_Radfordj.cpp(250,13): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\prndl\OneDrive\Pictures\Saved Pictures\UNI shit\Comp 150\IndividualProject_Radfordj\IndividualProject_Radfordj\IndividualProject_Radfordj.cpp(252,13): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\prndl\OneDrive\Pictures\Saved Pictures\UNI shit\Comp 150\IndividualProject_Radfordj\IndividualProject_Radfordj\IndividualProject_Radfordj.cpp(382,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\prndl\OneDrive\Pictures\Saved Pictures\UNI shit\Comp 150\IndividualProject_Radfordj\IndividualProject_Radfordj\IndividualProject_Radfordj.cpp(421,9): warning C4101: 'input': unreferenced local variable
+C:\Users\prndl\OneDrive\Pictures\Saved Pictures\UNI shit\Comp 150\IndividualProject_Radfordj\IndividualProject_Radfordj\IndividualProject_Radfordj.cpp(378): warning C4715: 'menufunction': not all control paths return a value
+  IndividualProject_Radfordj.vcxproj -> C:\Users\prndl\OneDrive\Pictures\Saved Pictures\UNI shit\Comp 150\IndividualProject_Radfordj\x64\Debug\IndividualProject_Radfordj.exe
